@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="/Users/super_yu/Documents/workspace/MiguFileHandle/apache/commons-codec-1.6.jar"/>
+	<classpathentry kind="lib" path="/Users/super_yu/Documents/workspace/MiguFileHandle/apache/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="/Users/super_yu/Documents/workspace/MiguFileHandle/apache/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="/Users/super_yu/Documents/workspace/MiguFileHandle/apache/commons-logging-1.1.3.jar"/>
+	<classpathentry kind="lib" path="/Users/super_yu/Documents/workspace/MiguFileHandle/apache/fluent-hc-4.2.5.jar"/>
+	<classpathentry kind="lib" path="/Users/super_yu/Documents/workspace/MiguFileHandle/apache/httpclient-4.2.5.jar"/>
+	<classpathentry kind="lib" path="/Users/super_yu/Documents/workspace/MiguFileHandle/apache/httpclient-cache-4.2.5.jar"/>
+	<classpathentry kind="lib" path="/Users/super_yu/Documents/workspace/MiguFileHandle/apache/httpcore-4.2.4.jar"/>
+	<classpathentry kind="lib" path="/Users/super_yu/Documents/workspace/MiguFileHandle/apache/httpmime-4.2.5.jar"/>
+	<classpathentry kind="lib" path="/Users/super_yu/Documents/workspace/MiguFileHandle/apache/poi-3.11-20141221.jar"/>
+	<classpathentry kind="lib" path="/Users/super_yu/Documents/workspace/MiguFileHandle/apache/poi-examples-3.11-20141221.jar"/>
+	<classpathentry kind="lib" path="/Users/super_yu/Documents/workspace/MiguFileHandle/apache/poi-excelant-3.11-20141221.jar"/>
+	<classpathentry kind="lib" path="/Users/super_yu/Documents/workspace/MiguFileHandle/apache/poi-ooxml-3.11-20141221.jar"/>
+	<classpathentry kind="lib" path="/Users/super_yu/Documents/workspace/MiguFileHandle/apache/poi-ooxml-schemas-3.11-20141221.jar"/>
+	<classpathentry kind="lib" path="/Users/super_yu/Documents/workspace/MiguFileHandle/apache/poi-scratchpad-3.11-20141221.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
